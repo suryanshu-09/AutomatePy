@@ -1,4 +1,4 @@
-#Automate.Py
+# Automate.Py
 This repo contains all my notes from the ISTE workshop on 14th May, 23 called Automate.Py
 The workshop is centered around basic machine learning algorithms and aims to get us familiar with all the processes while implementing machine learning.
 
